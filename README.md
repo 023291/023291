@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @023291, My name is Camden Mona
+- 👀 I’m interested in Game and app developemnt
+- 🌱 I’m currently taking a class on javascript and javascript graphics *(**I hate them**)*
